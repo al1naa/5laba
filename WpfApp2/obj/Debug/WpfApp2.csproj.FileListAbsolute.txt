@@ -1,0 +1,15 @@
+E:\практика\WpfApp2\bin\Debug\WpfApp2.exe.config
+E:\практика\WpfApp2\bin\Debug\WpfApp2.exe
+E:\практика\WpfApp2\bin\Debug\WpfApp2.pdb
+E:\практика\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+E:\практика\WpfApp2\obj\Debug\MainWindow.g.cs
+E:\практика\WpfApp2\obj\Debug\App.g.cs
+E:\практика\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+E:\практика\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+E:\практика\WpfApp2\obj\Debug\MainWindow.baml
+E:\практика\WpfApp2\obj\Debug\WpfApp2.g.resources
+E:\практика\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+E:\практика\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+E:\практика\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+E:\практика\WpfApp2\obj\Debug\WpfApp2.exe
+E:\практика\WpfApp2\obj\Debug\WpfApp2.pdb
